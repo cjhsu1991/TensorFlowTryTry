@@ -1,0 +1,1 @@
+@"d:\git\tensorflowtrytry\tensorflow\scripts\python.exe" "d:\git\tensorflowtrytry\tensorflow\Scripts\markdown_py" %*
